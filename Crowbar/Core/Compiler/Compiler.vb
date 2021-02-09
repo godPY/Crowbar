@@ -778,7 +778,7 @@ Public Class Compiler
 		Dim CopyCount As Int32
 		CopyCount = 0
 		If TheApp.Settings.CompileOutputFolderOption = CompileOutputPathOptions.GameModelsFolder Then
-			DestFolder = Path.Combine(Path.GetPathRoot(Me.theOutputPath), "materials")
+			DestFolder = Path.Combine(Directory.GetParent(Me.theOutputPath).ToString(), "materials")
 		Else
 			DestFolder = Path.Combine(Me.theOutputPath, "materials")
 		End If
@@ -792,6 +792,7 @@ Public Class Compiler
 			For Each texture_path As String In textures_path
 				Targetfilename = Path.Combine(TheApp.Settings.CompileOptionMoveMaterialPath, Path.Combine(texture_path, texture_name))
 				Destfilename = Path.Combine(DestFolder, Path.Combine(texture_path, texture_name))
+				Destfilename = Destfilename.ToLower()
 				If File.Exists(Targetfilename) Then
 					Try
 						If File.Exists(Destfilename) Then
