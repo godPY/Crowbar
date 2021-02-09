@@ -1,0 +1,9 @@
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarSteamPipe\obj\Release\CrowbarSteamPipe.Resources.resources
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarSteamPipe\obj\Release\CrowbarSteamPipe.vbproj.GenerateResource.cache
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarSteamPipe\obj\Release\CrowbarSteamPipe.vbproj.CoreCompileInputs.cache
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarSteamworks\Resources\CrowbarSteamPipe.exe
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarSteamworks\Resources\CrowbarSteamPipe.pdb
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarSteamPipe\obj\Release\CrowbarSteamPipe.vbprojAssemblyReference.cache
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarSteamPipe\obj\Release\CrowbarSteamPipe.vbproj.CopyComplete
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarSteamPipe\obj\Release\CrowbarSteamPipe.exe
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarSteamPipe\obj\Release\CrowbarSteamPipe.pdb

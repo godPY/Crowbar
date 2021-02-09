@@ -1,0 +1,8 @@
+D:\Game_develop\csgo\Crowbar\Crowbar\Crowbar\Resources\CrowbarLauncher.exe
+D:\Game_develop\csgo\Crowbar\Crowbar\Crowbar\Resources\CrowbarLauncher.pdb
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarLauncher\obj\Release\CrowbarLauncher.MainForm.resources
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarLauncher\obj\Release\CrowbarLauncher.Resources.resources
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarLauncher\obj\Release\CrowbarLauncher.vbproj.GenerateResource.cache
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarLauncher\obj\Release\CrowbarLauncher.vbproj.CoreCompileInputs.cache
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarLauncher\obj\Release\CrowbarLauncher.exe
+D:\Game_develop\csgo\Crowbar\Crowbar\CrowbarLauncher\obj\Release\CrowbarLauncher.pdb
