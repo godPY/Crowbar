@@ -1,6 +1,8 @@
 # Crowbar
  Crowbar - GoldSource and Source Engine Modding Tool
- Modified by STONE
+ 
+ Modified by STONE.
+ 
  Add Compiler option that copy materials.
  
  [Website](https://steamcommunity.com/groups/CrowbarTool)
